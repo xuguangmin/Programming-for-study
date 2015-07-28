@@ -1,0 +1,32 @@
+# Chinese translations for PACKAGE package
+# PACKAGE 软件包的简体中文翻译.
+# Copyright (C) 2015 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# gm <guangmin@nfschina.com>, 2015.
+#
+#: hello.c:9
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-12 18:12+0800\n"
+"PO-Revision-Date: 2015-06-12 18:21+0800\n"
+"Last-Translator: gm <guangmin@nfschina.com>\n"
+"Language-Team: Chinese (simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: hello.c:10 hello.c:11
+msgid "hello"
+msgstr ""
+
+#: hello.c:10
+msgid "."
+msgstr ""
+
+#: hello.c:13
+#, c-format
+msgid "Hello world!\n"
+msgstr "你好，世界！\n"

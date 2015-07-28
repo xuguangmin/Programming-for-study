@@ -1,0 +1,4 @@
+c语言中嵌入python
+1, malefile中制定Python.h
+2, 指定Python的库， python既是一个可执行文件还是一个动态库
+

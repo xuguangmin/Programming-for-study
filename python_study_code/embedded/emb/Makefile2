@@ -1,0 +1,7 @@
+PYI = /usr/include/python2.7
+
+emb_2:emb_2.c
+	gcc emb_2.c -g -I$(PYI) -lpython2.7 -fpic -o emb_2
+
+clean:
+	rm -f emb_2 core

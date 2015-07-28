@@ -1,0 +1,10 @@
+生成python扩展模块的两种方法：
+1, 直接make
+2, python setup.py build
+
+
+测试方法：
+1, 运行ipython
+2, import extend
+3, extend.system_test('ls')
+
